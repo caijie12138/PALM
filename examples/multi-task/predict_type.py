@@ -15,7 +15,7 @@ if __name__ == '__main__':
     vocab_path = './pretrain/ernie/vocab.txt'
     predict_file = './data/dialog/type/dev.tsv'
     save_path = './outputs/'
-    pred_output = './outputs/predict_classification/'
+    pred_output = './outputs/predict_classification_type/'
     save_type = 'ckpt'
     random_seed = 0
     config = json.load(open('./pretrain/ernie/ernie_config.json'))

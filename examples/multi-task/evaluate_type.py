@@ -39,7 +39,7 @@ def pre_recall_f1_(preds, labels):
             # "acc_and_f1": (acc + f1) / 2,
         }
 
-def res_evaluate(res_dir="./outputs/predict_classification/predictions.json", eval_phase='test'):
+def res_evaluate(res_dir="./outputs/predict_classification_type/predictions.json", eval_phase='test'):
     if eval_phase == 'test':
         data_dir="./data/dialog/type/dev.tsv"
     elif eval_phase == 'dev':

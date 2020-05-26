@@ -11,11 +11,11 @@ if __name__ == '__main__':
     batch_size = 16
     num_epochs = 6 
     print_steps = 5
-    num_classes = 21
+    num_classes = 1111
     vocab_path = './pretrain/ernie/vocab.txt'
-    predict_file = './data/dialog/type/dev.tsv'
+    predict_file = './data/dialog/topic/dev.tsv'
     save_path = './outputs/'
-    pred_output = './outputs/predict_classification/'
+    pred_output = './outputs/predict_classification_topic/'
     save_type = 'ckpt'
     random_seed = 0
     config = json.load(open('./pretrain/ernie/ernie_config.json'))
@@ -39,7 +39,7 @@ if __name__ == '__main__':
     cls_pred_head = palm.head.Classify(num_classes, input_dim, phase='predict')
     
     # step 5-1: create a task trainer
-    trainer = palm.Trainer("type")
+    trainer = palm.Trainer("topic")
     # step 5-2: build forward graph with backbone and task head
     trainer.build_predict_forward(pred_ernie, cls_pred_head)
  

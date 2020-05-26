@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee0d11ea-a3e0-46de-b770-b59b6e9145c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1c4m6YxWDa6W6JQxZEO32hhuZOy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="predict_intent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PALM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CUDA_VISIBLE_DEVICES" value="0" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/multi-task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/examples/multi-task" remote-root="/home/jiabin/caijie/Dialog_recommendation/PALM-master/examples/multi-task" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/multi-task/predict_intent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PALM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="CUDA_VISIBLE_DEVICES" value="0" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/multi-task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/examples/multi-task" remote-root="/home/jiabin/caijie/Dialog_recommendation/PALM-master/examples/multi-task" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/multi-task/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.predict_intent" />
+      <item itemvalue="Python.run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.predict_intent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee0d11ea-a3e0-46de-b770-b59b6e9145c0" name="Default Changelist" comment="" />
+      <created>1589796064572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589796064572</updated>
+      <workItem from="1589796073877" duration="7923000" />
+      <workItem from="1589851658282" duration="12963000" />
+      <workItem from="1590026470913" duration="5829000" />
+      <workItem from="1590380990733" duration="2563000" />
+      <workItem from="1590402543843" duration="1260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1488" y="-547" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590027049126">
+      <screen x="1280" y="-640" width="2560" height="1440" />
+    </state>
+    <state x="1488" y="-547" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027049126" />
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1589851756072" />
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589796276838" />
+    <state x="456" y="221" key="#xdebugger.evaluate" timestamp="1589853193037">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="456" y="221" key="#xdebugger.evaluate/0.23.1280.777@0.23.1280.777" timestamp="1589853193037" />
+    <state x="403" y="122" key="#xdebugger.evaluate/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589798464846" />
+    <state width="1238" height="422" key="GridCell.Tab.0.bottom" timestamp="1590377613248">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="2518" height="422" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590034067994" />
+    <state width="1238" height="422" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-617.2560.1417@0.23.1280.777" timestamp="1590377613248" />
+    <state width="2518" height="32" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027060560" />
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.2560.1417@0.23.1280.777" timestamp="1589945737093" />
+    <state width="1238" height="245" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1589853233612" />
+    <state width="1238" height="245" key="GridCell.Tab.0.bottom/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589797294668" />
+    <state width="1238" height="422" key="GridCell.Tab.0.center" timestamp="1590377613247">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="2518" height="422" key="GridCell.Tab.0.center/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590034067993" />
+    <state width="1238" height="422" key="GridCell.Tab.0.center/0.23.1280.777/1280.-617.2560.1417@0.23.1280.777" timestamp="1590377613247" />
+    <state width="2518" height="32" key="GridCell.Tab.0.center/0.23.1280.777/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027060558" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.2560.1417@0.23.1280.777" timestamp="1589945737090" />
+    <state width="1238" height="245" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1589853233611" />
+    <state width="1238" height="245" key="GridCell.Tab.0.center/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589797294667" />
+    <state width="1238" height="422" key="GridCell.Tab.0.left" timestamp="1590377613246">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="2518" height="422" key="GridCell.Tab.0.left/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590034067992" />
+    <state width="1238" height="422" key="GridCell.Tab.0.left/0.23.1280.777/1280.-617.2560.1417@0.23.1280.777" timestamp="1590377613246" />
+    <state width="2518" height="32" key="GridCell.Tab.0.left/0.23.1280.777/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027060557" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.2560.1417@0.23.1280.777" timestamp="1589945737090" />
+    <state width="1238" height="245" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1589853233611" />
+    <state width="1238" height="245" key="GridCell.Tab.0.left/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589797294667" />
+    <state width="1238" height="422" key="GridCell.Tab.0.right" timestamp="1590377613247">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="2518" height="422" key="GridCell.Tab.0.right/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590034067994" />
+    <state width="1238" height="422" key="GridCell.Tab.0.right/0.23.1280.777/1280.-617.2560.1417@0.23.1280.777" timestamp="1590377613247" />
+    <state width="2518" height="32" key="GridCell.Tab.0.right/0.23.1280.777/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027060559" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.2560.1417@0.23.1280.777" timestamp="1589945737091" />
+    <state width="1238" height="245" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1589853233611" />
+    <state width="1238" height="245" key="GridCell.Tab.0.right/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589797294667" />
+    <state width="2518" height="399" key="GridCell.Tab.1.bottom" timestamp="1590377613164">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.1.bottom/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590034021765" />
+    <state width="2518" height="399" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.-617.2560.1417@0.23.1280.777" timestamp="1590377613164" />
+    <state width="2518" height="32" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027068045" />
+    <state width="1238" height="2" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.23.2560.1417@0.23.1280.777" timestamp="1589945736619" />
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1589853123654" />
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589797297118" />
+    <state width="2518" height="399" key="GridCell.Tab.1.center" timestamp="1590377613163">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.1.center/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590034021763" />
+    <state width="2518" height="399" key="GridCell.Tab.1.center/0.23.1280.777/1280.-617.2560.1417@0.23.1280.777" timestamp="1590377613163" />
+    <state width="2518" height="32" key="GridCell.Tab.1.center/0.23.1280.777/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027068042" />
+    <state width="1238" height="2" key="GridCell.Tab.1.center/0.23.1280.777/1280.23.2560.1417@0.23.1280.777" timestamp="1589945736618" />
+    <state width="1238" height="245" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1589853123652" />
+    <state width="1238" height="245" key="GridCell.Tab.1.center/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589797297117" />
+    <state width="2518" height="399" key="GridCell.Tab.1.left" timestamp="1590377613163">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.1.left/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590034021762" />
+    <state width="2518" height="399" key="GridCell.Tab.1.left/0.23.1280.777/1280.-617.2560.1417@0.23.1280.777" timestamp="1590377613163" />
+    <state width="2518" height="32" key="GridCell.Tab.1.left/0.23.1280.777/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027068039" />
+    <state width="1238" height="2" key="GridCell.Tab.1.left/0.23.1280.777/1280.23.2560.1417@0.23.1280.777" timestamp="1589945736618" />
+    <state width="1238" height="245" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1589853123652" />
+    <state width="1238" height="245" key="GridCell.Tab.1.left/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589797297116" />
+    <state width="2518" height="399" key="GridCell.Tab.1.right" timestamp="1590377613164">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.1.right/0.0.1280.800/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590034021764" />
+    <state width="2518" height="399" key="GridCell.Tab.1.right/0.23.1280.777/1280.-617.2560.1417@0.23.1280.777" timestamp="1590377613164" />
+    <state width="2518" height="32" key="GridCell.Tab.1.right/0.23.1280.777/1280.-640.2560.1440@1280.-640.2560.1440" timestamp="1590027068043" />
+    <state width="1238" height="2" key="GridCell.Tab.1.right/0.23.1280.777/1280.23.2560.1417@0.23.1280.777" timestamp="1589945736618" />
+    <state width="1238" height="245" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1589853123653" />
+    <state width="1238" height="245" key="GridCell.Tab.1.right/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589797297117" />
+    <state x="141" y="50" key="SettingsEditor" timestamp="1589851770162">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1589851770162" />
+    <state x="141" y="50" key="SettingsEditor/1280.23.1112.811/0.23.1280.777@0.23.1280.777" timestamp="1589796449263" />
+    <state width="640" height="388" key="XDebugger.FullValuePopup" timestamp="1589852162987">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="640" height="388" key="XDebugger.FullValuePopup/0.23.1280.777@0.23.1280.777" timestamp="1589852162987" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/multi-task/run.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/multi-task/run.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/multi-task/run.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>mock:///</url>
+          <line>120</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/multi-task/run.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/multi-task/run.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/multi-task/run.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/multi-task/predict_intent.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/multi-task/predict_intent.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/paddlepalm/trainer.py</url>
+          <line>538</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PALM$predict_intent.coverage" NAME="predict_intent Coverage Results" MODIFIED="1590027146790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/multi-task" />
+    <SUITE FILE_PATH="coverage/PALM$run.coverage" NAME="run Coverage Results" MODIFIED="1590034067984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/multi-task" />
+  </component>
+</project>
